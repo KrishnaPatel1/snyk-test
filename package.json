@@ -21,6 +21,7 @@
     "typeorm": "0.2.24",
     "hbs": "4.0.4",
     "npmconf": "0.0.24",
-    "dustjs-linkedin": "2.5.0"
+    "dustjs-linkedin": "2.5.0",
+    "mongoose": "4.2.4"
   }
 }
