@@ -18,6 +18,6 @@
   "homepage": "https://github.com/KrishnaPatel1/snyk-test#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "npmconf": "0.2.24"
+    "npmconf": "2.1.3"
   }
 }
