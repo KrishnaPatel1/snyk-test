@@ -21,6 +21,7 @@
     "jquery": "2.2.4",
     "tap": "11.1.5",
     "mongoose": "4.2.4"
-    "versionn": "1.0.0"
+    "versionn": "1.0.0",
+    "libheif-js": "1.15.0"
   }
 }
